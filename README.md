@@ -9,7 +9,7 @@ assignments and a final project for the final exam. On the practical side, stude
 software including QGIS and Python scripting, and model builder.
 Winter semester, 3 credits
  Room: Memorial Hall Room 048 (if need be) and online https://udel.zoom.us/j/94870356760
- Schedule: MoTuWeThFr 12:00PM - 1:30PM
+ Schedule: MoTuWeThFr 12:00PM - 1:45PM
 Course prerequisites: No formal course pre-requisites. But some basic information on python, GIS and statistics is
 an advantage.
 Instructors:
